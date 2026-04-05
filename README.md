@@ -98,7 +98,7 @@ This was an individual project, and I was responsible for the full concept and d
       <sub><b>Main</b></sub>
     </td>
     <td align="center">
-      <img src="images/About.png" height="260"/><br>
+      <img src="images/about.png" height="260"/><br>
       <sub><b>About</b></sub>
     </td>
   </tr>
