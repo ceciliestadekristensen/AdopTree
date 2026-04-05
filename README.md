@@ -33,7 +33,7 @@ This project explores how design, technology, and user motivation can support lo
 
 ---
 
-## The idea
+## The Idea
 
 Urban trees are often overlooked and under-maintained, despite their importance.
 
@@ -61,17 +61,17 @@ The project explores how a digital product can:
 
 ## Key Features
 
-* Tree Map: Location-based overview of nearby trees with health status
-* Tree Adoption: Users adopt a specific tree and follow its development
-* AI Check-Ins (Concept): Upload a photo → receive diagnosis + care recommendations
-* My Trees: Track adopted trees and their status
-* Impact View: Visualize collective engagement and contribution
+- **Tree Map** - Location-based overview of nearby trees with health status  
+- **Tree Adoption** - Adopt and follow a specific tree  
+- **AI Check-Ins (Concept)** - Upload a photo → receive diagnosis + care recommendations  
+- **My Trees** - Track adopted trees and their status  
+- **Impact View** - Visualize collective engagement  
 
 ---
 
 ## My Contribution
 
-This was an individual project, and I was responsible for the full concept and design process.
+This was an individual project, where i was responsible for the full concept and design process.
 
 ### Concept Development
 - Developed the overall application idea and structure
