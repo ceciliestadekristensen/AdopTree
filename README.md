@@ -96,11 +96,6 @@ This was an individual project, where i was responsible for the full concept and
 
 ---
 
-### Prototype Link
-[_Figma link_](https://www.figma.com/proto/YqYrk4dyGdHaKIRCvaFymD/DEB?t=XHHJ5TwVAuCDYGo8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=39-499)
-
----
-
 ## Prototype
 
 ### Screenshots
@@ -140,6 +135,11 @@ This was an individual project, where i was responsible for the full concept and
     </td>
   </tr>
 </table>
+
+---
+
+### Prototype Link
+[_Figma link_](https://www.figma.com/proto/YqYrk4dyGdHaKIRCvaFymD/DEB?t=XHHJ5TwVAuCDYGo8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=39-499)
 
 ---
 
