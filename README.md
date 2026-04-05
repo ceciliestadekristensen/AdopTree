@@ -163,7 +163,7 @@ This project was developed independently as part of the Design and Evaluation of
 
 **Full report:**
 
-[Download AdopTree Report](https://github.com/ceciliestadekristensen/AdopTree/raw/main/report/Adoptree.pdf)
+[Download AdopTree Report](https://github.com/ceciliestadekristensen/AdopTree/raw/main/report/AdopTree.pdf)
 
 ---
 
