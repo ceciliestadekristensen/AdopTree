@@ -4,6 +4,20 @@ A mobile application concept focused on tree adoption and environmental engageme
 
 ---
 
+## Demo
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/ceciliestadekristensen/AdopTree/main/demo/adoptree.gif" height="260"/> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/ceciliestadekristensen/AdopTree/raw/main/demo/adoptree.mp4">
+    ▶ Watch full demo video
+  </a>
+</p>
+
+---
+
 ## Overview
 
 AdopTree is a high-fidelity mobile app prototype designed to make urban tree care more accessible and engaging.
@@ -83,7 +97,7 @@ This was an individual project, and I was responsible for the full concept and d
 ---
 
 ### Prototype Link
-[_Add Figma link here_](https://www.figma.com/proto/YqYrk4dyGdHaKIRCvaFymD/DEB?t=XHHJ5TwVAuCDYGo8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=61-178)
+[_Figma link_](https://www.figma.com/proto/YqYrk4dyGdHaKIRCvaFymD/DEB?t=XHHJ5TwVAuCDYGo8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=39-499)
 
 ---
 
@@ -147,7 +161,9 @@ The final concept was selected based on:
 
 This project was developed independently as part of the Design and Evaluation of User Interfaces course.
 
-[Download Report (PDF)](https://github.com/ceciliestadekristensen/AdopTree/raw/main/report/Adoptree.pdf)
+**Full report:**
+
+[Download AdopTree Report](https://github.com/ceciliestadekristensen/AdopTree/raw/main/report/Adoptree.pdf)
 
 ---
 
