@@ -159,7 +159,7 @@ This is a prototype project:
 - AI check-in is conceptual
 - Focus is on interaction design and user experience
 
--- 
+---
 
 ## Purpose
 
