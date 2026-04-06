@@ -156,8 +156,6 @@ This was an individual project, where i was responsible for the full concept and
       <img src="images/map.png" height="270"/><br>
       <sub><b>Map</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="images/trees.png" height="270"/><br>
       <sub><b>My Trees</b></sub>
