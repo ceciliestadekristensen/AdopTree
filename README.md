@@ -145,29 +145,29 @@ This was an individual project, where i was responsible for the full concept and
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/main.png" width="200"/><br>
+      <img src="images/main.png" height="270"/><br>
       <sub><b>Main</b></sub>
     </td>
     <td align="center">
-      <img src="images/about.png" width="200"/><br>
+      <img src="images/about.png" height="270"/><br>
       <sub><b>About</b></sub>
     </td>
     <td align="center">
-      <img src="images/map.png" width="200"/><br>
+      <img src="images/map.png" height="270"/><br>
       <sub><b>Map</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/trees.png" width="200"/><br>
+      <img src="images/trees.png" height="270"/><br>
       <sub><b>My Trees</b></sub>
     </td>
     <td align="center">
-      <img src="images/check-in.png" width="200"/><br>
+      <img src="images/check-in.png" height="270"/><br>
       <sub><b>Check-In</b></sub>
     </td>
     <td align="center">
-      <img src="images/report.png" width="200"/><br>
+      <img src="images/report.png" height="270"/><br>
       <sub><b>Report</b></sub>
     </td>
   </tr>
