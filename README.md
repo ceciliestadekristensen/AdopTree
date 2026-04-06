@@ -126,6 +126,10 @@ This was an individual project, where i was responsible for the full concept and
       <img src="images/report.png" height="270"/><br>
       <sub><b>Report</b></sub>
     </td>
+    <td align="center">
+      <img src="images/word.png" height="270"/><br>
+      <sub><b>World View</b></sub>
+    </td>
   </tr>
 </table>
 
