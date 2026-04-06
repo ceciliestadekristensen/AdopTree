@@ -103,48 +103,6 @@ This was an individual project, where i was responsible for the full concept and
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/main.png" height="260"/><br>
-      <sub><b>Main</b></sub>
-    </td>
-    <td align="center">
-      <img src="images/about.png" height="260"/><br>
-      <sub><b>About</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="images/map.png" height="260"/><br>
-      <sub><b>How the Map Works</b></sub>
-    </td>
-    <td align="center">
-      <img src="images/trees.png" height="260"/><br>
-      <sub><b>My Trees</b></sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="images/check-in.png" height="260"/><br>
-      <sub><b>Check-In</b></sub>
-    </td>
-    <td align="center">
-      <img src="images/report.png" height="260"/><br>
-      <sub><b>Report</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## Prototype
-
-### Screenshots
-
-<table align="center">
-  <tr>
-    <td align="center">
       <img src="images/main.png" height="270"/><br>
       <sub><b>Main</b></sub>
     </td>
